@@ -1,6 +1,6 @@
 # Tugas Form Survey Menggunakan JPA
 Dibuat oleh :</br>
-Tangguh Tri Prasetyo (212017130082)</br>
+Tangguh Tri Prasetyo (21120117130082)</br>
 Afrizal Bagas Santoso (21120117130075)
 
 ## SCREENSHOT
