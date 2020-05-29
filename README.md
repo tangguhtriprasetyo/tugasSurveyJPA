@@ -4,5 +4,5 @@ Tangguh Tri Prasetyo (212017130082)
 Afrizal Bagas Santoso (21120117130075
 
 ## SCREENSHOT
-![Alt text](/screenshot/1.png?raw=true "JPA")
-![Alt text](/screenshot/2.png?raw=true "JPA")
+![Alt text](/1.png?raw=true "JPA")
+![Alt text](/2.png?raw=true "JPA")
